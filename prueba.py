@@ -1,3 +1,5 @@
+# Mi primer proyecto gestionado con Git y GitHub
+
 def filtrar_y_duplicar(numeros):
     resultado = []
     for num in numeros:
