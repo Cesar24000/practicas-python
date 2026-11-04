@@ -1,4 +1,4 @@
-# Mi primer proyecto gestionado con Git y GitHub
+# Mi primer proyecto gestionado con Git y GitHub hola
 
 def filtrar_y_duplicar(numeros):
     resultado = []
