@@ -1,10 +1,6 @@
 [
     {
-        "titulo": "Aprender Git",
+        "titulo": "Termina la aplicacion",
         "completada": true
-    },
-    {
-        "titulo": "Crear proyecto JSON",
-        "completada": false
     }
 ]
